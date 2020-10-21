@@ -1,0 +1,36 @@
+PODS:
+  - ADCountryPicker (2.1.0)
+  - Alamofire (5.0.0-rc.3)
+  - IQKeyboardManagerSwift (6.5.5)
+  - KVNProgress (2.3.5)
+  - NKVPhonePicker (2.1.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - ADCountryPicker (~> 2.1.0)
+  - Alamofire (~> 5.0.0-rc.3)
+  - IQKeyboardManagerSwift
+  - KVNProgress
+  - NKVPhonePicker
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - ADCountryPicker
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - KVNProgress
+    - NKVPhonePicker
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ADCountryPicker: 502cee76a30ea1c3834eb0df170ce635691655c9
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+  NKVPhonePicker: 28ea127fb6a9c380e34dc1c56d38afc6fa09f143
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: b41475cb740cd5636cc4a6db3c413b127ef14e02
+
+COCOAPODS: 1.8.4
